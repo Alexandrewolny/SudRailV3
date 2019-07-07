@@ -1,0 +1,253 @@
+img {
+	width: 30%;
+	margin: 0 0px;
+}
+
+/*a {
+	text-align: center;
+}
+*/
+nav ul li
+{
+ margin:0 40px; 
+}
+
+#connexion {
+	margin-left: 80%;
+	margin-top: -10%;
+}
+
+label {
+	color: white;
+}
+
+
+
+
+#inscription {
+	text-align: center;}
+
+h5 {
+	color: black;
+	margin-bottom: 5%;
+}
+
+.boutoncarousel {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+.boutoncarousel:hover {
+	background-color:#407D1E;
+}
+
+#connexion {
+	margin-bottom: -6%;
+}
+
+.image {
+	width: 5%;
+}
+
+.Imgentete {
+	width: 7%;
+	margin-left: -30%;
+}
+
+.carous {
+	width: 100%;
+}
+
+/* @font-face {
+	font-family: TradeSmithRegular;
+	src:url(TradeSmith/TradeSmithRegular.otf);
+} */
+
+p {
+	/*font-family: TradeSmithRegular;*/
+}
+
+.btn {
+
+	color: white;
+	
+}
+
+li:hover {
+	/*background-color:#407D1E*/ ;
+}
+
+
+.container {
+	text-align: center;
+
+}
+
+#ii {
+	background-image: url("manif2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+
+
+.card {
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 27%;
+	color: black;
+}
+
+
+.xd {
+	width: 5%
+}
+
+.fb {
+	width: 5%;
+} 
+
+.twitter {
+	width: 11%;
+}
+
+
+#C{
+	background-color:black;
+
+  
+}
+#D{
+  background-image: url('7.jpg');
+  background-repeat: no-repeat;
+  background-color: black;
+  margin-left: 15%;
+}
+#G{
+  text-align: center;
+  font-family: tahoma;
+  margin: 5%;
+}
+
+#A{
+text-align : center;
+}
+body{
+  font-family: tahoma;
+  background-color: black;
+  font-family: 'Marcellus SC', serif;
+  margin: 0%;
+
+
+}
+p{
+  font-family: 'Marcellus SC', serif;
+}
+h5{
+  font-family: 'Vidaloka', serif; 
+  font-size: 200%;
+  color: darkgreen;
+}
+a{
+  font-family: 'Marcellus SC', serif;
+}
+#R{
+  margin-top: 40%;
+  background-color: grey;
+}
+#Z{
+  background-color: darkgray;
+  margin-top : 10%;
+}
+nav{
+  font-family: 'Holtwood One SC', serif;
+}
+#S{
+  margin-left: 90%;
+}
+#Q{
+  font-family: 'Marcellus SC', serif;
+}
+
+
+
+main {
+    margin-top: 4.5em;
+}
+#section1 {
+    height: 45em;
+}
+
+
+
+.col-md-3{
+  display: inline-block;
+  margin-left:-4px;
+}
+.col-md-3 img{
+  width:100%;
+  height:auto;
+}
+body .carousel-indicators li{
+  background-color:green;
+}
+body .carousel-indicators{
+  bottom: 0;
+}
+body .carousel-control-prev-icon,
+body .carousel-control-next-icon{
+  background-color:green;
+}
+body .no-padding{
+  padding-left: 0;
+  padding-right: 0;
+   }
+
+footer {
+	background-color: #333333;
+	padding-top: -30%;
+}
+
+#backgroundcarousel {
+	background-image:url("Img/carousel.jpg");
+	background-repeat: no-repeat;
+	background-size: 1000%;
+	display: block;
+	height: auto;
+}
+
+.card-text {
+	color: whitesmoke;
+}
+
+#demo {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+#demo1 {
+	padding-bottom: 5%;
+}
+
+.agenda {
+	color: whitesmoke;
+	text-align: center;
+	letter-spacing: 12px;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+
+@media screen and (max-width: 600px) {
+  .agenda {
+    font-size: 12px;
+  }
+}
